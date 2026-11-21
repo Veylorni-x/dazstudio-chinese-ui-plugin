@@ -1,0 +1,7 @@
+{
+    "errors": [
+    ],
+    "hooks": 13,
+    "installed": true,
+    "scope": "GUI-thread UI painting, native style copies, and display-only dialog text; code/input/model/image data are preserved"
+}

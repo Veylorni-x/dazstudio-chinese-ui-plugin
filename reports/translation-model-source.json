@@ -1,0 +1,13 @@
+{
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "zh",
+  "to_name": "Chinese",
+  "links": [
+    "https://argos-net.com/v1/translate-en_zh-1_9.argosmodel"
+  ],
+  "code": "translate-en_zh",
+  "sha256": "433e7c4f034d87fbe2353161e05f18646d7999452f801a4e1f0378522b9850ab"
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "只列出界面专用类和视口显示文字。不要加入 DzNode、DzElement、DzProperty 等数据类，也不介入 Qt3D 方位方块内部节点。",
+  "native_ui_contexts": [
+    "Dz3DViewport",
+    "DzViewport",
+    "DzViewControls",
+    "DzViewOptions",
+    "DzViewportToolBar",
+    "DzViewSelectionMenu"
+  ],
+  "native_ui_translations": {
+    "Front": "正面", "Back": "背面", "Left": "左侧", "Right": "右侧",
+    "Top": "顶面", "Bottom": "底面", "Perspective View": "透视视图",
+    "Perspective": "透视", "Camera Cube": "视角导航方块"
+  },
+  "native_ui_sources": [
+    "Front", "Back", "Left", "Right", "Top", "Bottom",
+    "Front View", "Back View", "Left View", "Right View", "Top View", "Bottom View",
+    "Perspective View", "Perspective", "Viewport", "Render Library", "View Selection",
+    "Draw Styles", "Draw Style", "Wireframe", "Smooth Shaded", "Texture Shaded",
+    "View Options", "View Controls", "Camera Cube"
+  ]
+}

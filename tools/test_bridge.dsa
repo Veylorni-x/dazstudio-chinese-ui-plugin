@@ -1,0 +1,24 @@
+// Script-interface-only acceptance harness. No mouse or keyboard simulation.
+var zhRoot = "__DAZ_ZHCN_ROOT__";
+function zhWrite(name,data){
+    var f=new DzFile(zhRoot+"/reports/"+name);
+    if(f.open(DzFile.WriteOnly)){var json=JSON.stringify(data,null,2).replace(/[^\x00-\x7f]/g,function(c){return "\\u"+("0000"+c.charCodeAt(0).toString(16)).slice(-4);});f.write(json);f.close();}
+}
+function zhMethods(object){var a=[];for(var k in object){try{if(typeof object[k]==="function")a.push(k);}catch(e){}}return a.sort();}
+try{
+    var bridgeReport={version:App.versionString,appMethods:zhMethods(App),sceneMethods:zhMethods(Scene),mainMethods:zhMethods(MainWindow),timerAvailable:typeof DzTimer};
+    zhWrite("script-probe.json",bridgeReport);
+    var zhTimer=new DzTimer(App);
+    var zhLast="";
+    zhTimer.timeout.connect(function(){
+        try{
+            var f=new DzFile(zhRoot+"/reports/script-command.json");
+            if(!f.open(DzFile.ReadOnly))return;
+            var raw=f.read();f.close();if(!raw)return;
+            var c=JSON.parse(raw);if(!c.id||c.id===zhLast)return;zhLast=c.id;
+            var value=eval(c.code);
+            zhWrite("script-response.json",{id:c.id,ok:true,result:value===undefined?null:value});
+        }catch(e){zhWrite("script-response.json",{id:zhLast,ok:false,error:String(e),line:e.lineNumber});}
+    });
+    zhTimer.start(500);
+}catch(e){zhWrite("script-probe-error.json",{error:String(e),line:e.lineNumber});}

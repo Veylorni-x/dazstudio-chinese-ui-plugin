@@ -1,0 +1,11 @@
+{
+  "source": "Could not open the file.",
+  "capture": {
+    "class": "QMessageBox",
+    "id": "251e74f8ed9a422c959d188e22f02dc5",
+    "ok": true,
+    "title": "警告"
+  },
+  "screenshot": "E:\\软件\\daz 3d\\DazStudio简体中文\\reports\\screenshots\\08-error-message-cn.png",
+  "closed": true
+}

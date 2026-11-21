@@ -1,0 +1,90 @@
+{
+  "root_cause": "Generic-plugin controller had two owners: QCoreApplication QObject child ownership and QGuiApplication generic_plugin_list. The factory now returns a parentless controller owned only by Qt generic_plugin_list.",
+  "before": {
+    "pid": 39460,
+    "instance": "DazCandidateControl082040",
+    "exit_code": 3221226505,
+    "exit_hex": "0xc0000409",
+    "workflow_completed": true,
+    "clean_exit_message_before_failure": true
+  },
+  "original_control": {
+    "pid": 29372,
+    "instance": "DazOriginalBaseline081809",
+    "args": [
+      "C:\\Program Files\\DAZ 3D\\DAZStudio6\\DAZStudio.exe",
+      "-instanceName",
+      "DazOriginalBaseline081809",
+      "-copyAppSettings",
+      "~",
+      "-copySessionUI",
+      "~",
+      "-noPrompt",
+      "C:\\Users\\Public\\Documents\\DazZhCNAcceptance\\baseline.dsa"
+    ],
+    "extension_loaded": false,
+    "started": "2026-11-21T08:18:09.546138",
+    "exit_code": 0,
+    "clean_exit_log": true,
+    "workflow": {
+      "version": "6.26.2026.30901",
+      "phase": "completed",
+      "extension": false,
+      "loaded": true,
+      "nodes": 316,
+      "name": "Genesis9",
+      "label": "Genesis 9",
+      "property": "XTranslate",
+      "value": 3.25,
+      "saveError": 0,
+      "exportError": 0
+    }
+  },
+  "after": {
+    "pid": 38692,
+    "instance": "DazCandidateControl082652",
+    "args": [
+      "C:\\Program Files\\DAZ 3D\\DAZStudio6\\DAZStudio.exe",
+      "-instanceName",
+      "DazCandidateControl082652",
+      "-copyAppSettings",
+      "~",
+      "-copySessionUI",
+      "~",
+      "-noPrompt",
+      "C:\\Users\\Public\\Documents\\DazZhCNAcceptance\\baseline.dsa"
+    ],
+    "extension_loaded": true,
+    "started": "2026-11-21T08:26:52.205223",
+    "exit_code": 0,
+    "clean_exit_log": true,
+    "workflow": {
+      "version": "6.26.2026.30901",
+      "phase": "completed",
+      "extension": true,
+      "loaded": true,
+      "nodes": 316,
+      "name": "Genesis9",
+      "label": "Genesis 9",
+      "property": "XTranslate",
+      "value": 3.25,
+      "saveError": 0,
+      "exportError": 0
+    }
+  },
+  "fixed_plugin_sha256": "99548b69bce3e2cd93338f6130d1b104478d3563ae35939fa372b4b79cbc976d",
+  "reference": "https://raw.githubusercontent.com/qt/qtbase/v6.10.3/src/gui/kernel/qguiapplication.cpp",
+  "time": "2026-11-21T08:31:01.614891",
+  "additional_test_observation": {
+    "finding": "A single startup test using the exploratory Qt3D camera-cube traversal exited with 0xffffffff. That traversal was removed; the final build does not enumerate Qt3D camera-cube nodes.",
+    "exit_code": "0xffffffff",
+    "final_result": "The current production candidate passed the full load, edit, save, reopen, export, and normal-exit acceptance with exit code 0.",
+    "target_instance": "DazZhCNTest101148"
+  },
+  "final_acceptance": {
+    "pid": 34228,
+    "exit_code": 0,
+    "exit_hex": "0x0",
+    "observing": false
+  }
+}

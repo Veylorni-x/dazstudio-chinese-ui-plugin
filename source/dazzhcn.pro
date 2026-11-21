@@ -1,0 +1,14 @@
+QT += core gui widgets
+QT += quick quickwidgets qml
+TEMPLATE = lib
+CONFIG += plugin c++17 release
+CONFIG -= debug
+TARGET = dazzhcn
+DESTDIR = ../runtime/generic
+SOURCES += dazzhcn.cpp
+HEADERS += paintadapter.h
+HEADERS += graphicstext.h
+HEADERS += plugin.h
+SOURCES += third_party/minhook/src/buffer.c third_party/minhook/src/hook.c third_party/minhook/src/trampoline.c third_party/minhook/src/hde/hde64.c
+DISTFILES += dazzhcn.json
+QMAKE_CXXFLAGS += /utf-8

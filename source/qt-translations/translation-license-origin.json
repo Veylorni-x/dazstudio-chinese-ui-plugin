@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Translations",
+    "licenseDeclared": "LicenseRef-Qt-Commercial OR BSD-3-Clause",
+    "copyrightText": "Copyright (C) The Qt Company Ltd. and other contributors.",
+    "downloadLocation": "git://code.qt.io/qt/qttranslations.git"
+  }
+]

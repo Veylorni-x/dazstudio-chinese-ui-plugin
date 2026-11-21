@@ -1,0 +1,692 @@
+{
+  "target": "6.26.2026.30901",
+  "phase": "consolidated final acceptance",
+  "steps": [
+    {
+      "name": "version",
+      "result": {
+        "version": "6.26",
+        "language": "zh_CN",
+        "nodes": 0
+      }
+    },
+    {
+      "name": "native_plugin",
+      "result": {
+        "found": true,
+        "name": "Daz Studio 简体中文 (Simplified Chinese)",
+        "author": "DazStudioZhCN",
+        "version": "1.0.0.0",
+        "status": 0,
+        "filename": "E:/软件/daz 3d/DazStudio简体中文/runtime/generic/dazzhcn.dll"
+      }
+    },
+    {
+      "name": "load_genesis9",
+      "result": {
+        "loaded": true,
+        "count": 316,
+        "roots": [
+          {
+            "name": "Genesis9",
+            "label": "Genesis 9",
+            "type": "DzFigure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "adjust_parameter",
+      "result": {
+        "name": "Genesis9",
+        "label": "Genesis 9",
+        "propertyName": "XTranslate",
+        "propertyLabel": "X Translate",
+        "before": 0,
+        "after": 3.25
+      }
+    },
+    {
+      "name": "parameter_panel",
+      "result": {
+        "label": "Parameters",
+        "visible": true
+      }
+    },
+    {
+      "name": "viewport_with_character",
+      "result": {
+        "width": 983,
+        "height": 869,
+        "saved": true
+      }
+    },
+    {
+      "name": "panel_surfaces",
+      "result": {
+        "class": "DzSurfacesPane",
+        "label": "Surfaces",
+        "visible": true
+      }
+    },
+    {
+      "name": "panel_shaping",
+      "result": {
+        "class": "DzShapingPane",
+        "label": "Shaping",
+        "visible": true
+      }
+    },
+    {
+      "name": "panel_posing",
+      "result": {
+        "class": "DzPosingPane",
+        "label": "Posing",
+        "visible": true
+      }
+    },
+    {
+      "name": "panel_render_settings",
+      "result": {
+        "class": "DzRenderSettingsPane",
+        "label": "Render Settings",
+        "visible": true
+      }
+    },
+    {
+      "name": "panel_simulation_settings",
+      "result": {
+        "class": "DzSimulationSettingsPane",
+        "label": "Simulation Settings",
+        "visible": true
+      }
+    },
+    {
+      "name": "parameter_options_menu_entries",
+      "result": [
+        {
+          "label": "Preferences",
+          "type": 3,
+          "children": [
+            {
+              "label": "Show Hidden Properties",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Consolidate Properties",
+              "type": 1
+            },
+            {
+              "label": "Persistent Group Expansion",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Display Separate Items",
+              "type": 1
+            },
+            {
+              "label": "Display Followers",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Copy",
+          "type": 3,
+          "children": [
+            {
+              "label": "Copy Figure",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Copy Selected Item(s)",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "Paste",
+          "type": 3,
+          "children": [
+            {
+              "label": "Paste to Figure(s)",
+              "type": 1
+            },
+            {
+              "label": "Paste Figure Pose",
+              "type": 1
+            },
+            {
+              "label": "Paste Figure Shape",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Paste to Selected Item(s)",
+              "type": 1
+            },
+            {
+              "label": "Paste Pose to Selected Item(s)",
+              "type": 1
+            },
+            {
+              "label": "Paste Shape to Selected Item(s)",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Memorize",
+          "type": 3,
+          "children": [
+            {
+              "label": "Memorize Figure",
+              "type": 1
+            },
+            {
+              "label": "Memorize Figure Pose",
+              "type": 1
+            },
+            {
+              "label": "Memorize Figure Shape",
+              "type": 1
+            },
+            {
+              "label": "Memorize Figure By Type...",
+              "type": 1
+            },
+            {
+              "label": "Memorize Figure By Path...",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Memorize Selected Item(s)",
+              "type": 1
+            },
+            {
+              "label": "Memorize Selected Item(s) Pose",
+              "type": 1
+            },
+            {
+              "label": "Memorize Selected Item(s) Shape",
+              "type": 1
+            },
+            {
+              "label": "Memorize Selected Item(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Memorize Selected Item(s) By Path...",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "Restore",
+          "type": 3,
+          "children": [
+            {
+              "label": "Restore Figure",
+              "type": 1
+            },
+            {
+              "label": "Restore Figure Pose",
+              "type": 1
+            },
+            {
+              "label": "Restore Figure Shape",
+              "type": 1
+            },
+            {
+              "label": "Restore Figure By Type...",
+              "type": 1
+            },
+            {
+              "label": "Restore Figure By Path...",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Restore Selected Item(s)",
+              "type": 1
+            },
+            {
+              "label": "Restore Selected Item(s) Pose",
+              "type": 1
+            },
+            {
+              "label": "Restore Selected Item(s) Shape",
+              "type": 1
+            },
+            {
+              "label": "Restore Selected Item(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Restore Selected Item(s) By Path...",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "Zero",
+          "type": 3,
+          "children": [
+            {
+              "label": "Zero Figure...",
+              "type": 1
+            },
+            {
+              "label": "Zero Figure Pose...",
+              "type": 1
+            },
+            {
+              "label": "Zero Figure Shape...",
+              "type": 1
+            },
+            {
+              "label": "Zero Figure By Type...",
+              "type": 1
+            },
+            {
+              "label": "Zero Figure By Path...",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Zero Selected Item(s)...",
+              "type": 1
+            },
+            {
+              "label": "Zero Selected Item(s) Pose...",
+              "type": 1
+            },
+            {
+              "label": "Zero Selected Item(s) Shape...",
+              "type": 1
+            },
+            {
+              "label": "Zero Selected Item(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Zero Selected Item(s) By Path...",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "Clear Animation",
+          "type": 3,
+          "children": [
+            {
+              "label": "Clear Figure",
+              "type": 1
+            },
+            {
+              "label": "Clear Figure Pose",
+              "type": 1
+            },
+            {
+              "label": "Clear Figure Shape",
+              "type": 1
+            },
+            {
+              "label": "Clear Figure By Type...",
+              "type": 1
+            },
+            {
+              "label": "Clear Figure By Path...",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Clear Selected Item(s)",
+              "type": 1
+            },
+            {
+              "label": "Clear Selected Item(s) Pose",
+              "type": 1
+            },
+            {
+              "label": "Clear Selected Item(s) Shape",
+              "type": 1
+            },
+            {
+              "label": "Clear Selected Item(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Clear Selected Item(s) By Path...",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Limits",
+          "type": 3,
+          "children": [
+            {
+              "label": "Limits On (Rotation)",
+              "type": 1
+            },
+            {
+              "label": "Limits Off (Rotation)",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "Lock",
+          "type": 3,
+          "children": [
+            {
+              "label": "Lock Selected Node(s)",
+              "type": 1
+            },
+            {
+              "label": "Lock Selected Node(s) Pose",
+              "type": 1
+            },
+            {
+              "label": "Lock Selected Node(s) Shape",
+              "type": 1
+            },
+            {
+              "label": "Lock Selected Node(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Lock Selected Node(s) By Path...",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Unlock Selected Node(s)",
+              "type": 1
+            },
+            {
+              "label": "Unlock Selected Node(s) Pose",
+              "type": 1
+            },
+            {
+              "label": "Unlock Selected Node(s) Shape",
+              "type": 1
+            },
+            {
+              "label": "Unlock Selected Node(s) By Type...",
+              "type": 1
+            },
+            {
+              "label": "Unlock Selected Node(s) By Path...",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Symmetry...",
+          "type": 1
+        },
+        {
+          "label": "Bake To Transforms...",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Move To Floor",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Transfer Active Morphs",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Edit Mode",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "parameter_options_menu",
+      "result": {
+        "id": "8b97b70a84724a0db5c558c20a2f61fd",
+        "ok": true,
+        "sourceItems": 25
+      }
+    },
+    {
+      "name": "parameter_options_menu_screenshot",
+      "result": {
+        "class": "QMenu",
+        "file": "04-parameters-options-zh.png",
+        "renderer": "Daz source menu model displayed in a native Qt popup",
+        "saved": true,
+        "sourceItems": 25
+      }
+    },
+    {
+      "name": "render_options_menu_entries",
+      "result": [
+        {
+          "label": "Preferences",
+          "type": 3,
+          "children": [
+            {
+              "label": "Show Hidden Properties",
+              "type": 1
+            },
+            {
+              "label": "",
+              "type": 0
+            },
+            {
+              "label": "Restore Render Setting Defaults",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Render",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Save Last &Render...",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        },
+        {
+          "label": "Render Directory Manager...",
+          "type": 1
+        },
+        {
+          "label": "",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "render_options_menu",
+      "result": {
+        "id": "11bbb6d7db1b4893aac825ac62ce502f",
+        "ok": true,
+        "sourceItems": 9
+      }
+    },
+    {
+      "name": "render_options_menu_screenshot",
+      "result": {
+        "class": "QMenu",
+        "file": "06-render-options-zh.png",
+        "renderer": "Daz source menu model displayed in a native Qt popup",
+        "saved": true,
+        "sourceItems": 9
+      }
+    },
+    {
+      "name": "english_switch",
+      "result": {
+        "language": "en",
+        "fileMenu": [
+          "File"
+        ]
+      }
+    },
+    {
+      "name": "chinese_visible_interface",
+      "result": {
+        "widgets": 2670,
+        "actions": 3640,
+        "models": 281
+      }
+    },
+    {
+      "name": "state_after_switch",
+      "result": {
+        "name": "Genesis9",
+        "label": "Genesis 9",
+        "propertyName": "XTranslate",
+        "propertyLabel": "X Translate",
+        "value": 3.25
+      }
+    },
+    {
+      "name": "save_scene",
+      "result": {
+        "error": 0,
+        "className": "DzSceneAssetFilter",
+        "filename": "E:/软件/daz 3d/DazStudio简体中文/reports/验收场景.duf"
+      }
+    },
+    {
+      "name": "reopen_scene",
+      "result": {
+        "opened": true,
+        "nodes": 316,
+        "name": "Genesis9",
+        "label": "Genesis 9",
+        "value": 3.25
+      }
+    },
+    {
+      "name": "export_obj",
+      "result": {
+        "error": 0,
+        "exporter": "DzObjExporter"
+      }
+    },
+    {
+      "name": "export_geometry",
+      "result": {
+        "bytes": 24011409,
+        "vertices": 142850
+      }
+    },
+    {
+      "name": "english_asset_lookup",
+      "result": "C:/Users/Public/Documents/My DAZ 3D Library/People/Genesis 9/Genesis 9.duf"
+    },
+    {
+      "name": "normal_exit_requested",
+      "result": "exit requested"
+    },
+    {
+      "name": "normal_exit",
+      "result": {
+        "pid": 35504,
+        "exit_code": 0,
+        "exit_hex": "0x0",
+        "observing": false
+      }
+    }
+  ],
+  "workflow_completed": true
+}

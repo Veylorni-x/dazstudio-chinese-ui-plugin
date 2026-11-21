@@ -1,0 +1,11 @@
+{
+  "_note": "此文件优先级最高。将英文原文与中文译文填写在 strings 内；支持 context + U+0004 + 原文作为 contexts 键。",
+  "strings": {
+    "Make sure the “Surface Selection Tool” is selected. Main Menus: Tools > Surface Selection.": "请先选中“表面选择工具”。主菜单：工具 > 表面选择。",
+    "<b>1.</b> Make sure the “Surface Selection Tool” is selected. Main Menus: Tools > Surface Selection.": "<b>1.</b>请先选中“表面选择工具”。主菜单：工具 > 表面选择。",
+    "<font color='#bec0d1'><b>1.</b> Make sure the “Surface Selection Tool” is selected. Main Menus: Tools > Surface Selection.</font>": "<font color='#bec0d1'><b>1.</b>请先选中“表面选择工具”。主菜单：工具 > 表面选择。</font>",
+    "With dForce, each object in the scene that has its own geometry can participate in a simulation. The participation of each object can be controlled from the Parameters pane and the behavior of each surface can be controlled from the Surfaces pane.": "使用 dForce 时，场景中各自带有几何体的对象都可参与模拟。可在“参数”面板中控制对象是否参与模拟，并在“表面”面板中调整各表面的模拟效果。",
+    "With dForce, each object in the scene that has its own geometry can participate in a simulation. The participation of each object can be controlled from the Parameters pane and the behavior of each surface can be controlled from the Surfaces pane.<br/><br/>Click <a href=\"ds-script:///**TipTitle**.dsa?base=Custom&custom=**TipDir**\">here</a> to be shown how.": "使用 dForce 时，场景中各自带有几何体的对象都可参与模拟。可在“参数”面板中控制对象是否参与模拟，并在“表面”面板中调整各表面的模拟效果。<br/><br/>单击 <a href=\"ds-script:///**TipTitle**.dsa?base=Custom&custom=**TipDir**\">这里</a>查看操作方法。"
+  },
+  "contexts": {}
+}

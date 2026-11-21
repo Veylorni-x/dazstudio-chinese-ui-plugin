@@ -1,0 +1,13 @@
+{
+  "target_daz": "6.26.2026.30901",
+  "daz_sdk": "6.26.2026.30200",
+  "qt": "6.10.3",
+  "architecture": "x64",
+  "msvc": "14.44.35207",
+  "windows_sdk": "10.0.26100.0",
+  "loading": "Dual-Mode: Daz Studio 6.26 Native SDK Plugin (DzPlugin) + Qt QGenericPlugin",
+  "application_core_sha256": "2c4ce620619aad8d94bdeffe36ca8cc93cd38b87c566c5dc3e9745f3894e60b0",
+  "qt_gui_sha256": "03ba47a2025036a04f5548bce242788ac21edf551e78d5b42e1b87beb799904f",
+  "qt_widgets_sha256": "61ddd0316a731b8dbabaf2924cd0d47b756461e37329b4f535902cf450416127",
+  "plugin_sha256": "6faf7780f975e981bf7e33cc8e2fb56a208088dd7ff58316d20c4d5ed2d4ec3d"
+}

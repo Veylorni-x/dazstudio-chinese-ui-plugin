@@ -1,0 +1,1432 @@
+%1 (Alias)	%1 (别名)
+&Back	上一步(&B)
+&Sign In	登录(&S)
+&Work Offline	离线使用(&W)
+1. Make a selection from the left.	1. 请在左侧选择一项。
+< Back	< 上一步
+<font color='#bec0d1'><b>1.</b> Make a selection from the left.</font>	<font color='#bec0d1'><b>1.</b> 请在左侧选择一项。</font>
+<font color='#bec0d1'><b>Tip 1 -</b> Click and drag a point to manipulate the figure. Left-clicking and right-clicking control different properties. See the legend below the image for details.</font>	<font color='#bec0d1'><b>提示 1 -</b> 单击并拖动控制点即可调节角色。左键单击与右键单击分别控制不同属性，详情请参见图像下方的图例。</font>
+<font color='#bec0d1'><b>Tip 1 -</b> With dForce, each object in the scene that has its own geometry can participate in a simulation. The participation of each object can be controlled from the Parameters pane and the behavior of each surface can be controlled from the Surfaces pane.<br/><br/>Click <a href="ds-script:///**TipTitle**.dsa?base=Custom&custom=**TipDir**">here</a> to be shown how.</font>	<font color='#bec0d1'><b>提示 1 -</b> 使用 dForce 时，场景中各自带有几何体的对象都可参与模拟。可在“参数”面板中控制对象是否参与模拟，并在“表面”面板中调整各表面的模拟效果。<br/><br/>单击<a href="ds-script:///**TipTitle**.dsa?base=Custom&custom=**TipDir**">这里</a>查看操作演示。</font>
+Abdomen	腹部
+Abort	中止
+About	关于
+About Daz Studio	关于 Daz Studio
+About Installed Plugins	关于已安装的插件
+Accept	接受
+Accessories	配饰
+Accessors	访问器
+Account	账号
+Active Pose	交互姿势
+ActivePose	交互姿势
+Actor	角色
+Actor Controls	角色控制
+Actor, Wardrobe & Props	角色、服装与道具
+Actor/Character	角色/人物
+Actor/Persona	角色/形象
+Actors	角色
+Add	添加
+Add Node	添加节点
+Add a Female Character	添加女性角色
+Add a Male Character	添加男性角色
+Add-ons	附加组件
+Adjust Eye Rigging	调整眼部骨架
+Advanced	高级
+Air Resistance	空气阻力
+Albedo	反照率
+Align	对齐
+Alignment	对齐
+All	全部
+All Files	所有文件
+All Formats	所有格式
+All Languages	所有语言
+All MAT	完整材质
+All Properties	全部属性
+Alpha	透明通道
+Always	始终
+Amala Body	阿玛拉形体 (Amala Body)
+Amala for Genesis 9	阿玛拉（Genesis 9 角色）
+Ambient Color	环境颜色
+Ambient Strength	环境强度
+Anatomy	身体部件
+Angle	角度
+Animals	动物
+Animate	制作动画
+Animate2	Animate2 动画
+Animated (Use Timeline Play Range)	动画（使用时间轴播放范围）
+Animation	动画
+Animation Presets	动画预设
+Animations	动画
+Anime	动漫
+Anime Materials	动漫材质
+Anisotropy	各向异性
+Anisotropy Rotation	各向异性旋转
+Ankle	踝部
+Application	应用程序
+Apply	应用
+Architecture	建筑
+Arm	手臂
+Arms	手臂
+Array	数组
+Ascending	升序
+Aspect Ratio	宽高比
+Asphalt	沥青
+Asset Save Filters loaded.	已加载资产保存过滤器。
+Asymmetry	不对称
+Auto	自动
+Auto Follow	自动跟随
+Auto Headlamp	自动相机照明
+Automatic	自动
+Automatically Login	自动登录
+Automatically Sign In	自动登录
+Aux Viewport	辅助视口
+Available	可用
+Back	背部
+Back View	背面视图
+Backspace	退格键
+Backup	备份
+Backward	向后
+Bake To Transforms	烘焙到变换
+Bake To Transforms...	烘焙到变换…
+Bardot !FootPose	巴铎鞋履适配姿势
+Bardot !Outfit	巴铎整套服装
+Bardot Sandals	巴铎凉鞋
+Bardot Skirt	巴铎半身裙
+Bardot Top	巴铎上衣
+Base	基础
+Base Anatomy	基础身体部件
+Base Anime Body Feminine	基础动漫女性体型
+Base Anime Body Masculine	基础动漫男性体型
+Base Color	基础颜色
+Base Mixing	基础混合
+Base Weight	基础权重
+Basic	基本
+Bend	弯曲
+Big Toe	大脚趾
+Bikini	比基尼
+Binary	二进制
+Binding	绑定
+Black	黑色
+Blend	混合
+Blond	金色
+Bloom	泛光
+Blue	蓝色
+Body	身体
+Body Details	身体细节
+Bone	骨骼
+Bones	骨骼
+Bool	布尔值
+Boolean	布尔值
+Bottom	底部
+Bottom View	底面视图
+Bottoms	下装
+Bra	文胸
+Breasts	胸部
+Brick	砖块
+Brickyard	积木库
+Brightness	明亮度
+Brow	眉部
+Brown	棕色
+Browse	浏览
+Browse...	浏览…
+Bulges	肌肉隆起
+Bump	凹凸
+Bump Maximum	凹凸最大值
+Bump Minimum	凹凸最小值
+Bump Strength	凹凸强度
+By File	按文件
+By Function	按用途
+By Product	按产品
+By Region	按部位
+CPU	CPU（处理器）
+Camera	相机
+Camera Presets	相机预设
+Camera Settings	相机设置
+Cameras	相机
+Cameras :	相机：
+Cameras : 	相机：
+Cancel	取消
+Cancel Sign In	取消登录
+Capsule	胶囊体
+Car Paint	汽车漆
+Card	发片
+Carpet Berber White	白色柏柏尔地毯
+Cartoon Shaded	卡通着色
+Cast Iron	铸铁
+Categories	分类
+Category	分类
+Center	居中
+Center Point	中心点
+Center on Selection	以所选项为中心
+Ceramic	陶瓷
+Ceramic Tiles Small	小块瓷砖
+Changes have been made to the scene.	场景已经修改。
+Character	角色
+Characters	角色
+Check All	全部勾选
+Check for Updates	检查更新
+Cheek	脸颊
+Cheekbones	颧骨
+Cheeks	脸颊
+Chest	胸部
+Chestnut	栗色
+Child	子级
+Children	子级
+Chin	下巴
+Choose	选择
+Choose Camera	选择相机
+Choose File	选择文件
+Choose Folder	选择文件夹
+Choose Hair	选择毛发
+Choose Lesson	选择教程
+Choose Lighting	选择照明
+Choose Map	选择贴图
+Choose Pose	选择姿势
+Choose Wardrobe	选择服装
+Chrome	镀铬
+Clear	清除
+Clear Animation	清除动画
+Clear Figure	清除角色动画
+Clear Figure By Path...	按路径清除角色动画…
+Clear Figure By Type...	按类型清除角色动画…
+Clear Figure Pose	清除角色姿势动画
+Clear Figure Shape	清除角色塑形动画
+Clear Scene	清空场景
+Clear Selected Item(s)	清除所选项目动画
+Clear Selected Item(s) By Path...	按路径清除所选项目动画…
+Clear Selected Item(s) By Type...	按类型清除所选项目动画…
+Clear Selected Item(s) Pose	清除所选项目姿势动画
+Clear Selected Item(s) Shape	清除所选项目塑形动画
+Clone: %1	克隆：%1
+Close	关闭
+Close All	全部关闭
+Close Pane	关闭面板
+Clothes	服装
+Clothing	服装
+Clouds	云层
+Coated Flip-Flop Paint	涂层变色漆
+Coffee	咖啡色
+Col:	列：
+Collar	锁骨
+Collars	锁骨
+Collect Maps	收集贴图
+Collect Textures	收集贴图
+Collision	碰撞
+Collision Iterations	碰撞迭代次数
+Collision Mode	碰撞模式
+Collision Offset	碰撞偏移
+Collisions	碰撞
+Color	颜色
+Color Temperature	色温
+Colored Flint Glass	彩色燧石玻璃
+Colored Wax	彩色蜡
+Colors	颜色
+Compression	压缩
+Concrete	混凝土
+Cone	圆锥体
+Confirm	确认
+Confirmation	确认
+Connect	连接
+Connect Selected	连接所选项
+Connect to your Daz 3D account	连接到您的 Daz 3D 账户
+Consolidate Properties	合并同名属性
+Constant	恒定
+Constrain Proportions	锁定比例
+Constraints	约束
+Content	素材
+Content DB Maintenance	素材数据库维护
+Content Directory	素材目录
+Content Directory Manager	素材目录管理器
+Content Library	素材库
+Content Library Pane loaded.	已加载素材库面板。
+Continue	继续
+Contraction-Expansion Ratio	收缩与膨胀比
+Contrast	对比度
+Convert Maps	转换贴图
+Copy	复制
+Copy Figure	复制角色
+Copy Selected Brick(s)	复制所选积木块
+Copy Selected Item(s)	复制所选项目
+Could not open the file.	无法打开文件。
+Create	创建
+Create Keys	创建关键帧
+Create a new Distant Light	创建新平行光
+Create a new Point Light	创建新点光源
+Create a new Primitive	创建新基本体
+Create a new Spot Light	创建新聚光灯
+Crystal	水晶
+Cube	立方体
+Curly	卷发
+Current Frame	当前帧
+Current Frame Only	仅当前帧
+Currently Used	当前使用
+Custom Bricks	自定义积木块
+Customize	自定义
+Customize Interface loaded.	已加载自定义界面组件。
+Cut	剪切
+Cutout Opacity	裁切不透明度
+Cylinder	圆柱体
+DAZ Studio Formats	Daz Studio 格式
+DS | DSA | DSB Conversion :	DS | DSA | DSB 转换：
+DUF | DSF Compression :	DUF | DSF 压缩：
+Damping	阻尼
+Dark Blue	深蓝色
+Date	日期
+Daz Originals	Daz 原创
+Default	默认
+Default Camera	默认相机
+Default Order	默认顺序
+Default Resources	默认资源
+Default Resources for DAZ Studio	Daz Studio 默认资源
+Default Save Filters loaded.	已加载默认保存过滤器。
+Defaults	默认值
+Delete	删除
+Delete Key	删除键
+Delete Keys	删除关键帧
+Delete Node	删除节点
+Delete Selected Brick(s)	删除所选积木块
+Denoiser	降噪器
+Denoising	降噪
+Density	密度
+Depth	深度
+Depth of Field	景深
+Descending	降序
+Description	说明
+Detail	细节
+Details	详情
+Developer Kit	开发工具包
+Device	设备
+Devices	设备
+Diamond	钻石
+Diffuse	漫反射
+Diffuse Color	漫反射颜色
+Diffuse Roughness	漫反射粗糙度
+Diffuse Strength	漫反射强度
+Dimension Preset	尺寸预设
+Dimensions	尺寸
+Direct To File	直接保存到文件
+Directories	目录
+Directory	目录
+Disable	禁用
+Disabled	已禁用
+Disconnect	断开连接
+Displacement	置换
+Displacement Maps	置换贴图
+Displacement Strength	置换强度
+Display Followers	显示跟随对象
+Display Separate Items	分开显示各项目
+Distant Light	平行光
+Distribute : Backs (-Z)	分布：后方 (-Z)
+Distribute : Bottoms (-Y)	分布：底部 (-Y)
+Distribute : Fronts (+Z)	分布：前方 (+Z)
+Distribute : Lefts (-X)	分布：左侧 (-X)
+Distribute : Rights (+X)	分布：右侧 (+X)
+Distribute : Tops (+Y)	分布：顶部 (+Y)
+Do not show this again	不再显示此提示
+Do not show this again.	不再显示此提示。
+Do you want to save your changes?	是否保存修改？
+Dock	停靠
+Docked	已停靠
+Documentation	文档
+Documents	文档
+Dome	穹顶
+Dome Only	仅穹顶
+Dome Rotation	穹顶旋转
+Dome and Scene	穹顶与场景
+Don't show this again	不再显示此提示
+Don't show this again.	不再显示此提示。
+Done	完成
+Down	向下
+Draw Dome	显示穹顶
+Draw Ground	显示地面
+Draw Settings	显示设置
+Draw Style	显示样式
+Draw Styles	显示样式
+DrawStyle	显示样式
+Duplicate	复制副本
+Duplicate Node	复制节点
+Duration	持续时间
+Earlobe	耳垂
+Ears	耳朵
+Edge	边
+Edges	边
+Edit	编辑
+Edit Mode	编辑模式
+Editor	编辑器
+Effect	效果
+Elbow	肘部
+Embed Textures	嵌入贴图
+Emerald	翡翠绿
+Emission	自发光
+Emission Color	自发光颜色
+Emissives	发光材质
+Enable	启用
+Enable Twist :	启用扭转：
+Enabled	已启用
+End Frame	结束帧
+End Point	末端点
+Engine	引擎
+Enter	回车
+Enter text to filter by...	输入要筛选的文本…
+Enter the text to seach by.	输入要搜索的文本…
+Enter the text to search by.	输入要搜索的文本…
+Entire Figure	整个角色
+Environment	环境
+Environment Intensity	环境强度
+Environment Map	环境贴图
+Environment Mode	环境模式
+Environment Settings	环境设置
+Environments	环境
+Error	错误
+Escape	退出键
+Exit	退出
+Expansion	扩展
+Export	导出
+Export Options	导出选项
+Export Rules	导出规则
+Exposure Value	曝光值
+Expressions	表情
+External	外部
+Eye	眼睛
+Eye Socket	眼窝
+Eye Sockets	眼窝
+Eyebrows	眉毛
+Eyelashes	睫毛
+Eyelid	眼睑
+Eyelids	眼睑
+Eyes	眼睛
+F/Stop	光圈值
+Fabric	织物
+Fabrice Body	法布里斯形体 (Fabrice Body)
+Fabrice for Genesis 9	法布里斯（Genesis 9 角色）
+Face	面
+Face Controls	面部控制
+Face Groups	面组
+Face Transfer	面部迁移
+Faces	面
+Favorites	收藏
+Favorites Only	仅收藏项
+Feathered	羽状层次
+Feet	双脚
+Female	女性
+Feminine	女性化
+Fiber	纤维
+Figure	角色模型
+Figure Setup Pane loaded.	已加载角色设置面板。
+Figures	角色模型
+FilaToon	FilaToon 卡通着色
+Filament	Filament 实时渲染
+Filament DrawStyle loaded.	已加载 Filament 绘制样式。
+File	文件
+File Name	文件名
+File Not Found	找不到文件
+File Type	文件类型
+File name	文件名
+Files	文件
+Files of type	文件类型
+Film ISO	感光度 ISO
+Film Size	胶片尺寸
+Filter	筛选
+Filter By Context	按当前场景筛选
+Filter by Context	按当前场景筛选
+Filter by Selection	按所选项筛选
+Filtering	过滤
+Filtering...	正在筛选…
+Find	查找
+Fingernails	手指甲
+Fingers	手指
+Finish	完成
+Fit	适配
+Fit Screen	适应屏幕
+Fit Screen Height	适应屏幕高度
+Fit Screen Width	适应屏幕宽度
+Fit To	适配至
+Fit To...	适配至…
+Fits	适配姿势
+Float	浮点数
+Floating	浮动
+Floating Iris	浮动虹膜
+Flower Sandals	花卉凉鞋
+Flower Skirt	花卉半身裙
+Flower Top	花卉上衣
+Focal Distance	对焦距离
+Focal Length	焦距
+Focal Width	焦点宽度
+Folder	文件夹
+Folders	文件夹
+Follower	跟随对象
+Follower/Accessory/Arm	跟随对象/配饰/手臂
+Follower/Accessory/Arm/Left	跟随对象/配饰/手臂/左侧
+Follower/Accessory/Arm/Right	跟随对象/配饰/手臂/右侧
+Follower/Accessory/Arms	跟随对象/配饰/双臂
+Follower/Accessory/Arms/Hands	跟随对象/配饰/双臂/双手
+Follower/Accessory/Arms/Lower	跟随对象/配饰/双臂/前臂
+Follower/Accessory/Arms/Upper	跟随对象/配饰/双臂/上臂
+Follower/Accessory/Arms/Wrist	跟随对象/配饰/双臂/手腕
+Follower/Accessory/Head	跟随对象/配饰/头部
+Follower/Accessory/Head/Ear	跟随对象/配饰/头部/耳朵
+Follower/Accessory/Head/Ears	跟随对象/配饰/头部/双耳
+Follower/Accessory/Head/Eye	跟随对象/配饰/头部/眼睛
+Foot	脚
+Footwear	鞋履
+Forearm	前臂
+Forehead	额头
+Forward	向前
+Frame	帧
+Frame Rate	帧率
+Frame Selection	框显所选项
+Frames	帧
+Frames To Simulate	模拟帧范围
+Fresnel	菲涅耳反射
+Fresnel IOR	菲涅耳折射率
+Friction	摩擦力
+Front	正面
+Front View	正面视图
+Front-Back	前后弯曲
+Fuchsia	品红色
+Full Body	全身
+Full Screen	全屏
+Functions	函数
+G9 Base Bikini	G9 基础比基尼
+G9 Base Bra	G9 基础文胸
+G9 Base Shirt	G9 基础衬衫
+G9 Base Shorts	G9 基础短裤
+GPU	GPU（显卡）
+Gamma	伽马
+General	常规
+General : (Requires Restart)	常规：(需要重启)
+General : (Requires Restart) 	常规：(需要重启)
+General Release	正式版
+General Weight Mode :	常规权重模式：
+General Weight Mode : 	常规权重模式：
+Generate Face	生成面部
+Genesis 8 Female	Genesis 8 女性角色
+Genesis 8 Female Starter Essentials	Genesis 8 女性入门基础资源
+Genesis 8 Male	Genesis 8 男性角色
+Genesis 8 Male Starter Essentials	Genesis 8 男性入门基础资源
+Genesis 8.1 Female	Genesis 8.1 女性角色
+Genesis 8.1 Male	Genesis 8.1 男性角色
+Genesis 9	Genesis 9（第九代角色）
+Genesis 9 Basic Female	Genesis 9 基础女性角色
+Genesis 9 Basic Male	Genesis 9 基础男性角色
+Genesis 9 Eyelashes	Genesis 9 睫毛
+Genesis 9 Eyes	Genesis 9 眼睛
+Genesis 9 Mouth	Genesis 9 口腔
+Genesis 9 Starter Essentials	Genesis 9 入门基础资源
+Genesis 9 Starter Essentials Expansion	Genesis 9 入门基础资源扩展
+Genesis 9 Tear	Genesis 9 泪膜
+Genesis 9 Toon	Genesis 9 Toon（卡通角色）
+Genesis 9 Toon Base Anime Hair	Genesis 9 卡通基础动漫发型
+Genesis 9 Toon Brows Paint	Genesis 9 卡通绘制眉毛
+Genesis 9 Toon Eye Socket	Genesis 9 卡通眼窝
+Genesis 9 Toon Eyelashes	Genesis 9 卡通睫毛
+Genesis 9 Toon Floating Iris	Genesis 9 卡通浮动虹膜
+Genesis 9 Toon Mouth	Genesis 9 卡通口腔
+Genesis 9 Toon Shadow Plane	Genesis 9 卡通阴影平面
+Geometry	几何体
+Geometry Editor	几何体编辑器
+Geometry Editor Tool loaded.	已加载几何体编辑工具。
+Geometry Selection	几何体选择
+Getting Started	入门
+Glass	玻璃
+Glossiness	光泽度
+Glossy	光泽
+Glossy Color	光泽颜色
+Glossy Layered Weight	光泽层权重
+Glossy Reflectivity	光泽反射率
+Glossy Roughness	光泽粗糙度
+Glossy Specular	光泽高光
+Golden	金色
+Granite	花岗岩
+Granite Black	黑色花岗岩
+GraphMate	曲线编辑器
+Gravity	重力
+Gray	灰色
+Green	绿色
+Grey	灰色
+Ground	地面
+Ground Origin	地面原点
+Ground Position Mode	地面位置模式
+Ground Shadows	地面阴影
+Group	组
+Groups	组
+Gums	牙龈
+Hair	毛发
+Hair Colors	发色
+Hairs	毛发
+Hand	手
+Hands	手
+Hardware	硬件
+Head	头部
+Heel	脚跟
+Height	高度
+Help	帮助
+Hexagon Bridge loaded.	已加载 Hexagon 桥接组件。
+Hidden	隐藏
+Hide	隐藏
+High Resolution	高分辨率
+Highlight	高光
+Highlights	高光
+Hip	髋部
+Home	首页
+Horizontal Offset	水平偏移
+Horizontal Tiles	水平平铺次数
+Ignore	忽略
+Ignore Invisible Nodes	忽略不可见节点
+Image	图像
+Image Editor	图像编辑器
+Image Name	图像名称
+Image Path	图像保存路径
+Image Series	图像序列
+Images	图像
+Import	导入
+Import Mapped Directories	导入已配置目录
+Import Options	导入选项
+In	向内
+Include Animation	包含动画
+Include Cameras	包含相机
+Include Lights	包含灯光
+Include Morphs	包含形变
+Include Textures	包含贴图
+Index	索引
+Index Finger	食指
+Index of Refraction	折射率
+Information	信息
+Inner	内侧
+Input	输入
+Inputs	输入
+Install	安装
+Installed	已安装
+Installed Plugins	已安装的插件
+Instance	实例
+Instance Group	实例组
+Int	整数
+Integer	整数
+Intensity	强度
+Interactive (Biased) Mode : 	交互式 (有偏) 模式：
+Interactive Lessons	互动教程
+Interactive Tutorial	互动教程
+Interface	界面
+Interface Components loaded.	已加载界面组件。
+Internal	内部
+Interpolation	插值
+Invalid	无效
+Invert Selection	反选
+Iris	虹膜
+Jaunty	俏皮造型
+Jaw	下颌
+Joint	关节
+Joint Editor	关节编辑器
+Joint Editor Tool loaded.	已加载关节编辑工具。
+Joints	关节
+Kat Body	凯特形体 (Kat Body)
+Kat for Genesis 9	凯特（Genesis 9 角色）
+Key	关键项
+Key Frame	关键帧
+Key Frames	关键帧
+Key Graph	关键帧曲线图
+Key Node:	关键节点：
+KeyMate	关键帧编辑器
+Keyframe	关键帧
+Keyframes	关键帧
+Knee	膝部
+Label	显示名称
+Laura Body	劳拉形体 (Laura Body)
+Laura for Genesis 9	劳拉（Genesis 9 角色）
+Layer	图层
+Layered Image Editor	分层图像编辑器
+Layered Image Editor loaded.	已加载分层图像编辑器。
+Layers	图层
+Layout	布局
+Leather	皮革
+Left	左侧
+Left View	左侧视图
+Left-Right	左右转动
+Leg	腿部
+Legs	腿部
+Length	长度
+Level %1	级别 %1
+License	许可
+Light	灯光
+Light Geometry	光源形状
+Light Presets	灯光预设
+Light Primitives	基本体灯光
+Light Type	灯光类型
+Lighting	照明
+Lighting Model	光照模型
+Lights	灯光
+Lights :	灯光：
+Lights : 	灯光：
+Limits	数值限制
+Limits Off (Rotation)	关闭限制 (旋转)
+Limits On (Rotation)	开启限制 (旋转)
+Linear	线性
+Linear Point Light	线性点光源
+Lip	嘴唇
+Lips	嘴唇
+Liquids	液体
+Ln:	行：
+Load:	加载：
+Load: %1	加载：%1
+Loading	正在加载
+Local	本地
+Location	位置
+Lock	锁定
+Lock Selected Node(s)	锁定所选节点
+Lock Selected Node(s) By Path...	按路径锁定所选节点…
+Lock Selected Node(s) By Type...	按类型锁定所选节点…
+Lock Selected Node(s) Pose	锁定所选节点姿势
+Lock Selected Node(s) Shape	锁定所选节点塑形
+Locked	已锁定
+Login	登录
+Loop	循环
+Looping	循环播放
+Loosen	放松
+Lost and Found	未归类素材
+Lower	下部
+Lower Body	下半身
+Luminance	亮度
+Luminance Units	亮度单位
+Luminous Efficacy	发光效率
+Luminous Flux	光通量
+Mahogany Floorboards	桃花心木地板
+Main Menus	主菜单
+Make a selection from the left.	请在左侧选择一项。
+Male	男性
+Manipulator :	操纵器：
+Manual	手动
+Map Transfer loaded.	已加载贴图传递组件。
+Marble	大理石
+Marble White	白色大理石
+Masculine	男性化
+Mass	质量
+Material	材质
+Material Presets	材质预设
+Materials	材质
+Matt Body	马特形体 (Matt Body)
+Matt for Genesis 9	马特（Genesis 9 角色）
+Max Samples	最大采样数
+Max Time	最长时间
+Maximize	最大化
+Maximum	最大值
+Maximum Displacement	最大置换
+Memorize	记忆当前值
+Memorize Figure	记忆角色
+Memorize Figure By Path...	按路径记忆角色…
+Memorize Figure By Type...	按类型记忆角色…
+Memorize Figure Pose	记忆角色姿势
+Memorize Figure Shape	记忆角色塑形
+Memorize Selected Item(s)	记忆所选项目
+Memorize Selected Item(s) By Path...	按路径记忆所选项目…
+Memorize Selected Item(s) By Type...	按类型记忆所选项目…
+Memorize Selected Item(s) Pose	记忆所选项目姿势
+Memorize Selected Item(s) Shape	记忆所选项目塑形
+Merge	合并
+Mermaid	人鱼色
+Mesh	网格
+Meshes	网格
+Metadata	元数据
+Metal	金属
+Metal Brushed	拉丝金属
+Metallic	金属
+Metallic Weight	金属权重
+Metallicity	金属度
+Middle	中指
+Minimize	最小化
+Minimize Pane	最小化面板
+Minimum	最小值
+Minimum Displacement	最小置换
+Missing File	缺失文件
+Missing Files	缺失文件
+Mohawk	莫霍克发型
+Morph	形变
+Morph Follower loaded.	已加载形变跟随组件。
+Morph Loader Advanced	高级形变加载器
+Morph Loader Advanced loaded.	已加载高级形变加载器。
+Morph Loader Pro	专业形变加载器
+Morph Loader Pro loaded.	已加载专业形变加载器。
+Morph: %1	形变：%1
+Morphs	形变
+Motion Blur	运动模糊
+Mouth	嘴部
+Mouth Interior	口腔内部
+Move	移动
+Move Down	下移
+Move Left	左移
+Move Right	右移
+Move To Floor	贴合到地面
+Move Up	上移
+Move to Floor	移至地面
+Movie	视频
+Movie Name	视频名称
+Movie Path	视频保存路径
+Multiply Specular Through Opacity	不透明度影响高光
+My DAZ 3D Library	我的 Daz 3D 素材库
+My Library	我的素材库
+NVIDIA Iray	NVIDIA Iray
+NVIDIA Iray Renderer loaded.	已加载 NVIDIA Iray 渲染器。
+Nails	指甲
+Name	名称
+Navel	肚脐
+Neck	颈部
+Negative	负向
+Negative A/B	负向 A/B
+Negative Bump	负向凹凸
+Negative D/C	负向 D/C
+Neon Blue	霓虹蓝
+Never	从不
+New	新建
+New Camera	新建相机
+New Distant Light	新建平行光
+New Group	新建组
+New Instance	新建实例
+New Instance Group	新建实例组
+New Linear Point Light	新建线性点光源
+New Null	新建空对象
+New Point Light	新建点光源
+New Primitive	新建基本体
+New Spotlight	新建聚光灯
+New Window	新窗口
+Next	下一步
+Next Steps	下一步
+Nipples	乳头
+No	否
+No to All	全部选否
+Node	节点
+Node Selection	节点选择
+Node Weight Map Brush	节点权重贴图画笔
+Nodes	节点
+Nodes :	节点：
+Nodes : 	节点：
+Noise	噪点
+Noise Flow Glossy	流动噪波光泽材质
+Noise Perlin Glossy	柏林噪波光泽材质
+Noise Worley Glossy	沃利噪波光泽材质
+None	无
+Normal	法线
+Normal Map	法线贴图
+Normal Maps	法线贴图
+Normals	法线
+Nose	鼻子
+Nostrils	鼻孔
+Not Available	不可用
+Null	空对象
+OK	确定
+Object	对象
+Object Geometry	对象几何体
+Off	关
+Offline	离线
+Ok	确定
+OmniHair	OmniHair 毛发
+OmniSurface	OmniSurface 通用表面
+On	开
+Online	在线
+Opacity	不透明度
+Opacity Maps	不透明度贴图
+Opacity Strength	不透明度强度
+Open	打开
+Open Recent	最近打开
+Operation Cancelled	操作已取消
+Operators	运算符
+Optimization	优化
+Options	选项
+Orange	橙色
+Orchid	兰花紫
+Orientation	朝向
+Origin	原点
+Other	其他
+Other Import Formats	其他导入格式
+Out	向外
+Outer	外侧
+Outfits	整套服装
+Output	输出
+Outputs	输出
+Overwrite	覆盖
+Paint	涂料
+Panes	面板
+Panes (Tabs)	面板（选项卡）
+Parameter Settings	参数设置
+Parameters	参数
+Parameters - Editor	参数 - 编辑器
+Parameters pane	参数面板
+Parent	父级
+Partial Body	局部身体
+Password	密码
+Paste	粘贴
+Paste Brick(s)	粘贴积木块
+Paste Figure Pose	粘贴角色姿势
+Paste Figure Shape	粘贴角色塑形
+Paste Key(s)	粘贴关键帧
+Paste Pose to Selected Item(s)	粘贴姿势到所选项目
+Paste Shape to Selected Item(s)	粘贴塑形到所选项目
+Paste to Figure(s)	粘贴到角色
+Paste to Selected Item(s)	粘贴到所选项目
+Path	路径
+Pattern	图案
+Pattern Blended	混合图案
+Pattern Checker Glossy	棋盘格光泽材质
+Pause	暂停
+Pectorals	胸肌
+Pelvis	骨盆
+Pending	待处理
+People	人物
+Pepper	胡椒色
+Performance	性能
+Persistent Group Expansion	保持分组展开状态
+Perspective View	透视视图
+Photometric	光度
+Pink	粉色
+Pinky	小指
+Pixel Size	像素大小
+Pixie	精灵短发
+Plane	平面
+Plastic	塑料
+Play	播放
+Play Range	播放范围
+Play Range Start Frame	播放范围起始帧
+Please Wait	请稍候
+Plug-ins	插件
+Plugin	插件
+Plugins	插件
+Point At	朝向目标
+Point At...	朝向目标…
+Point Light	点光源
+Polygon	多边形
+Polygons	多边形
+Porcelain	瓷器
+Pose	姿势
+Pose Controls	姿势控制
+Pose Presets	姿势预设
+Poser Format Importers loaded.	已加载 Poser 格式导入器。
+Poser Formats	Poser 格式
+Poses	姿势
+Posing	姿势
+Positive	正向
+Positive A/B	正向 A/B
+Positive Bump	正向凹凸
+Positive D/C	正向 D/C
+Post Process Script	后期处理脚本
+PowerPose	强力姿势
+PowerPose Tools loaded.	已加载 PowerPose 工具。
+Preferences	首选项
+Preset	预设
+Presets	预设
+Primary Selection :	主选对象：
+Primary Selection : 	主选对象：
+Primitive	基本体
+Primitives	基本体
+Product	产品
+Products	产品
+Progress	进度
+Progressive Rendering	渐进式渲染
+Prop	道具
+Properties	属性
+Properties pane	属性面板
+Property	属性
+Property Hierarchy	属性层级
+Proportion	比例
+Proportions	比例
+Props	道具
+Protocol :	协议：
+Public Build	公开测试版
+Puppeteer	姿势操控器
+Puppeteer Pane loaded.	已加载木偶动画 (Puppeteer) 面板。
+Purple	紫色
+Quality	质量
+Question	询问
+Quick Start Guide	快速入门指南
+Quit	退出
+Range	范围
+Raytraced	光线追踪
+Ready	就绪
+Ready to Render	可直接渲染
+Recent Files	最近使用的文件
+Red	红色
+Redo	重做
+Reflection	反射
+Reflection Color	反射颜色
+Reflection Strength	反射强度
+Reflections	反射
+Refraction	折射
+Refraction Color	折射颜色
+Refraction Index	折射率
+Refraction Strength	折射强度
+Refraction Weight	折射权重
+Refresh	刷新
+Register	注册
+Registration	注册
+Reject	拒绝
+Remember Me	记住我
+Remote	远程
+Remove	移除
+Rename	重命名
+Render	渲染
+Render Directory Manager...	渲染目录管理器…
+Render Editor	渲染编辑器
+Render Engine	渲染引擎
+Render Library	渲染库
+Render Library Pane loaded.	已加载渲染库面板。
+Render Mode	渲染模式
+Render Output	渲染输出
+Render Presets	渲染预设
+Render Quality	渲染质量
+Render Range	渲染范围
+Render Settings	渲染设置
+Render Speed	渲染速度
+Render Style	渲染样式
+Render Target	渲染目标
+Render Type	渲染类型
+Render Window	渲染窗口
+Render to	渲染至
+Render to Canvas(es) : 	渲染到画布：
+Rendering	正在渲染
+Replace	替换
+Reset	重置
+Reset All	全部重置
+Resin	树脂
+Resin Polyurethane Matte	哑光聚氨酯树脂
+Resolution	分辨率
+Resolution Level	分辨率级别
+Restore	恢复记忆值
+Restore Defaults	恢复默认值
+Restore Figure	恢复角色
+Restore Figure By Path...	按路径恢复角色…
+Restore Figure By Type...	按类型恢复角色…
+Restore Figure Pose	恢复角色姿势
+Restore Figure Shape	恢复角色塑形
+Restore Render Setting Defaults	恢复渲染设置默认值
+Restore Selected Item(s)	恢复所选项目
+Restore Selected Item(s) By Path...	按路径恢复所选项目…
+Restore Selected Item(s) By Type...	按类型恢复所选项目…
+Restore Selected Item(s) Pose	恢复所选项目姿势
+Restore Selected Item(s) Shape	恢复所选项目塑形
+Restore Window	还原窗口
+Retry	重试
+Return	回车
+Right	右侧
+Right View	右侧视图
+Rigidity	刚性
+Rigidity : Participants	刚性：参与顶点
+Ring	无名指
+Root	根节点
+Root Node Only	仅根节点
+Rosegold	玫瑰金
+Rotate	旋转
+Rotate Tool	旋转工具
+Rotation	旋转
+Roughness	粗糙度
+Rubber	橡胶
+Ruby	红宝石色
+SSS Amount	次表面散射量
+SSS Direction	次表面散射方向
+SY Free Athlete Fem 01	SY 免费女性健美体型 01
+SY Free Athlete Fem 02	SY 免费女性健美体型 02
+SY Free Athlete Masc 01	SY 免费男性健美体型 01
+SY Free Body Thickness	SY 免费体型厚实度
+SY Free Chubby Feminine	SY 免费女性丰满体型
+SY Free Chubby Masculine	SY 免费男性丰满体型
+SY Free Feminine Shape 01	SY 免费女性体型 01
+SY Free Feminine Shape 02	SY 免费女性体型 02
+SY Free Masculine Shape 01	SY 免费男性体型 01
+SY Free Masculine Shape 02	SY 免费男性体型 02
+SY Free Thin Masculine	SY 免费男性清瘦体型
+Samples	示例
+Sandals	凉鞋
+Saturation	饱和度
+Save	保存
+Save As	另存为
+Save Face	保存面部
+Save Last &Render...	保存上次渲染(&R)…
+Save Last Render...	保存上次渲染…
+Save Modified Assets	保存已修改的资产
+Saving	正在保存
+Scale	缩放
+Scale Maps	缩放贴图
+Scale Tool	缩放工具
+Scatter Color	散射颜色
+Scattering	散射
+Scattering Measurement Distance	散射测量距离
+Scene	场景
+Scene Builder	场景构建器
+Scene Geometry : Active / Base	场景几何体：当前 / 基础
+Scene Identification	场景标识
+Scene Info	场景信息
+Scene Information	场景信息
+Scene Items :	场景元素：
+Scene Items : 	场景元素：
+Scene Nodes	场景节点
+Scene Only	仅场景
+Scene Selection	场景选择
+Scene Subset	场景子集
+Sclera	巩膜
+Script	脚本
+Script IDE Pane loaded.	已加载脚本 IDE 面板。
+Scripted Steps Pane loaded.	已加载脚本步骤面板。
+Scripts	脚本
+Search	搜索
+Select	选择
+Select All	全选
+Select Lesson	选择教程
+Select None	取消选择
+Select a Lesson	选择一个教程
+Select a file to open.	选择要打开的文件。
+Select a file to save.	选择保存位置和文件名。
+Selected	已选择
+Selected Nodes Only	仅所选节点
+Selected Only	仅所选项
+Selection	选择
+Selection Sets	选择集
+Sensitivity	灵敏度
+Serial Number	序列号
+Series Base	序列基础名称
+Series Path	序列保存路径
+Settings	设置
+Shader	着色器
+Shader Baker	着色器烘焙
+Shader Builder	着色器构建器
+Shader Mixer	着色器混合器
+Shader Mixer Pane loaded.	已加载着色器混音台面板。
+Shader Name	着色器名称
+Shader Presets	着色器预设
+ShaderMixer Base loaded.	已加载着色器混音台基础组件。
+Shaders	着色器
+Shading	着色
+Shadow	阴影
+Shadow Softness	阴影柔和度
+Shadow Type	阴影类型
+Shadows	阴影
+Shape	形状
+Shape Presets	形状预设
+Shaping	塑形
+Shaping (All)	塑形（全部）
+Shear	剪切
+Sheen Color	柔光颜色
+Shin	小腿
+Shirt	衬衫
+Shirts	衬衫
+Short	短款
+Shorts	短裤
+Shoulder	肩部
+Shoulders	肩部
+Show	显示
+Show Hidden Properties	显示隐藏属性
+Show Sub Items	显示子项
+Show on Startup	启动时显示
+Show this on Startup	启动时显示
+Shutter Speed	快门速度
+Side Side	侧向弯曲
+Side-Side	侧向弯曲
+Sign In	登录
+Sign In...	登录…
+Sign Out	退出登录
+Sign in with your	登录您的
+Sign in with your Daz 3D account to utilize Daz 3D web services from within Daz Studio. You'll be taken to your web browser to complete sign-in -- if you've signed in before, this first tries reconnecting with your last saved sign-in; hold Ctrl while clicking Sign In to skip that and sign in again from scratch.	使用您的 Daz 3D 账户登录，即可在 Daz Studio 内使用 Daz 3D 在线服务。系统将打开网页浏览器以完成登录——如果您之前登录过，将优先尝试恢复上次保存的登录状态；按住 Ctrl 键并单击“登录”可跳过恢复并重新登录。
+Simulate	开始模拟
+Simulation	模拟
+Simulation Info	模拟信息
+Simulation Results	模拟结果
+Simulation Settings	模拟设置
+Size	大小
+Skeleton	骨架
+Skin	皮肤
+Skin MAT	皮肤材质
+Skinning :	蒙皮：
+Skip to Play Range End	跳到播放范围终点
+Skip to Play Range Start	跳到播放范围起点
+Skipped remembering/forgetting an OAuth session: the signed-in Daz account changed during authentication.	已跳过记住/忽略 OAuth 会话：登录的 Daz 账户在验证过程中发生了变更。
+Skirt	半身裙
+Skirts	裙装
+Smart Content	智能素材
+Smart Content Pane loaded.	已加载智能素材面板。
+Smooth Shaded	平滑着色
+Snapping	吸附
+Snapping :	吸附：
+Solid Bounding Box	实体包围盒
+Sort	排序
+Sort By	排序方式
+Space	空格
+Spectral Rendering	光谱渲染
+Specular Color	高光颜色
+Specular Strength	高光强度
+Speed	速度
+Sphere	球体
+Spot Render	区域渲染
+Spot Render Tool loaded.	已加载区域渲染工具。
+Spotlight	聚光灯
+Standard Functions	标准函数
+Start Bones From Memorized Pose	从记忆姿势开始骨骼模拟
+Start Frame	起始帧
+Starter Essentials	入门基础资源
+Startup	启动
+Status	状态
+Step to Next Frame	下一帧
+Step to Previous Frame	上一帧
+Stiffness	硬度
+Still Image (Current Frame)	静态图像（当前帧）
+Stone	石材
+Stop	停止
+Straight	直发
+Strand-Based Hair	发丝毛发
+Stretch	拉伸
+String	字符串
+Stucco	灰泥
+Style	样式
+Stylized	风格化
+Subdivision	细分
+Subdivision Level	细分级别
+Subsurface	次表面
+Subsurface Scattering	次表面散射
+Sun-Sky Only	仅太阳与天空
+Surface	表面
+Surface Congress	表面选择
+Surface Selection	表面选择
+Surfaces	表面材质
+Surfaces (Color)	表面材质（颜色）
+Surfaces pane	表面面板
+Symmetry	对称
+Symmetry...	对称…
+System Information	系统信息
+Tab	制表键
+Tabs	选项卡
+Tabs Bottom	选项卡置于底部
+Tabs Left	选项卡置于左侧
+Tabs Right	选项卡置于右侧
+Tabs Top	选项卡置于顶部
+Tangent	切线
+Tangents	切线
+Teeth	牙齿
+Temperature	温度
+Templates	模板
+Temporary Directory	临时目录
+Temporary Files	临时文件
+Texture	贴图
+Texture Map	纹理贴图
+Texture Maps	纹理贴图
+Texture Quality	贴图质量
+Texture Resolution	贴图分辨率
+Texture Shaded	贴图着色
+Textures	贴图
+The file already exists.	文件已存在。
+Thick	浓密
+Thickness	厚度
+Thigh	大腿
+Thin	稀薄
+Thumb	拇指
+Tighten	收紧
+Timeline	时间轴
+Toe	脚趾
+Toenails	脚趾甲
+Toes	脚趾
+Tone Mapping	色调映射
+Tone Variation	色调变化
+Tongue	舌头
+Tool	工具
+Tool Bars	工具栏
+Toolbars	工具栏
+Tools	工具
+Toon	卡通
+Toon Anatomy	卡通身体部件
+Top	顶部
+Top Coat	表面涂层
+Top Coat Color	表面涂层颜色
+Top Coat Reflectivity	表面涂层反射率
+Top Coat Roughness	表面涂层粗糙度
+Top Coat Weight	表面涂层权重
+Top View	顶面视图
+Tops	上装
+Torus	圆环体
+Total Faces :	总面数：
+Total Faces : 	总面数：
+Total Frames	总帧数
+Total Lines :	总线段数：
+Total Lines : 	总线段数：
+Total Quads :	总四边面数：
+Total Quads : 	总四边面数：
+Total Triangles :	总三角面数：
+Total Triangles : 	总三角面数：
+Total Vertices :	总顶点数：
+Total Vertices : 	总顶点数：
+Transfer Active Morphs	传递当前形变
+Transfer Utility loaded.	已加载传递实用工具。
+Transform	变换
+Transforms	变换
+Translate	平移
+Translate Tool	平移工具
+Translation	平移
+Translucency	半透明
+Translucency Color	半透明颜色
+Translucency Weight	半透明权重
+Transmission	透射
+Transmission Color	透射颜色
+Transmitted Measurement Distance	透射测量距离
+Transparency	透明度
+TriAx (Local)	三轴 (局部)
+TriAx Weighted	三轴权重 (TriAx)
+Triangulate	三角化
+Triangulate Mesh	网格三角化
+Troubleshooting	故障排查
+Tutorials	教程
+Twist	扭转
+Two Sided Light	双面发光
+Ty Body	泰伊形体 (Ty Body)
+Ty for Genesis 9	泰伊（Genesis 9 角色）
+Type	类型
+UV Set	UV 坐标集
+UV Sets	UV 坐标集
+Unassigned	未分配
+Uncategorized	未分类
+Uncheck All	全部取消勾选
+Underwear	内衣
+Undo	撤销
+Undo Levels	撤销步数
+Undo Load: %1	撤销加载：%1
+Undo Load: Genesis 9 (Ctrl+Z)	撤销加载：Genesis 9 (Ctrl+Z)
+Undock	取消停靠
+Undock "%1" Pane	取消停靠“%1”面板
+Undock Pane	取消停靠面板
+Undock Pane Group	取消停靠面板组
+Undocked	已取消停靠
+Uniform Scale	等比缩放
+Unit	单位
+Units	单位
+Universal	通用工具
+Universal Tool	通用工具
+Unknown	未知
+Unlock	解锁
+Unlock Selected Node(s)	解锁所选节点
+Unlock Selected Node(s) By Path...	按路径解锁所选节点…
+Unlock Selected Node(s) By Type...	按类型解锁所选节点…
+Unlock Selected Node(s) Pose	解锁所选节点姿势
+Unlock Selected Node(s) Shape	解锁所选节点塑形
+Unused Maps :	未使用的贴图：
+Unused Maps : 	未使用的贴图：
+Up	向上
+Up-Down	上下转动
+Update	更新
+Update Metadata	更新元数据
+Update and Merge Menus	更新并合并菜单
+Updates	更新
+Upper	上部
+Upper Arm	上臂
+Upper Body	上半身
+Use Limits	使用限制
+User Guide	用户指南
+Username	用户名
+Utilities	实用工具
+Value	数值
+Values	数值
+Vehicles	载具
+Version	版本
+Vertex	顶点
+Vertex Map	顶点映射
+Vertical Offset	垂直偏移
+Vertical Tiles	垂直平铺次数
+Vertices	顶点
+Vibrance	自然饱和度
+Video: Files	视频：文件
+Video: Posing	视频：姿势
+Video: Products	视频：产品
+Video: Render Settings	视频：渲染设置
+Video: Simulation Settings	视频：模拟设置
+Video: Smart Content > Files	视频：智能素材 > 文件
+Video: Smart Content > Products	视频：智能素材 > 产品
+Video: Surfaces	视频：表面
+View	视图
+View Aim	对准视图
+View Bank	倾斜视图
+View Dolly	推拉视图
+View Frame	框选视图
+View Log File	查看日志文件
+View Orbit	环绕视图
+View Pan	平移视图
+View Reset	重置视图
+View Rotate	旋转视图
+View Selection	视图选择
+View by Material	按材质查看
+View by Node	按节点查看
+View: Bank (LMB + Drag)	视图：倾斜 (左键 + 拖动)
+View: Dolly Zoom (LMB + Drag) | Focal Zoom (RMB + Drag)	视图：推拉缩放 (左键 + 拖动) | 焦距缩放 (右键 + 拖动)
+View: Frame (LMB) | Aim (RMB)	视图：框选 (左键) | 对准 (右键)
+View: Pan (LMB + Drag)	视图：平移 (左键 + 拖动)
+View: Reset (LMB|RMB)	视图：重置 (左键 | 右键)
+View: Zoom (LMB + Drag)	视图：缩放 (左键 + 拖动)
+Viewport	视口
+Viewport Options	视口选项
+Viewports	视口
+Visibility	可见性
+Visible	可见
+Visible in Simulation	参与模拟
+Volume	体积
+Waist	腰部
+Walnut Semi-Gloss	半光泽胡桃木
+Wardrobe	服装
+Warning	警告
+Wavy	波浪发
+Wax	蜡
+Weapons	武器
+Wearable Presets	穿戴预设
+Weight	权重
+Weight Map Brush	权重贴图画笔
+Weight Map Brush Tool loaded.	已加载权重贴图画笔工具。
+Weight Mapping Mode :	权重绘制模式：
+Weight Mapping Mode : 	权重绘制模式：
+Weight Maps	权重贴图
+Weight Maps :	权重贴图：
+Welcome	欢迎
+Welcome to Daz Studio	欢迎使用 Daz Studio
+Weld	焊接
+Weld Vertices	焊接顶点
+What's This?	这是什么？
+When No Scene Lights	场景没有灯光时
+White	白色
+White Mode	白模模式
+White Point	白点
+Width	宽度
+Window	窗口
+Wire Bounding Box	线框包围盒
+Wireframe	线框
+Wood	木材
+Work Offline	离线使用
+Workspace	工作区
+World-Space Modifiers :	世界空间修改器：
+World-Space Modifiers : 	世界空间修改器：
+Wrist	腕部
+Write Groups	写入分组
+Write Materials	写入材质
+Write Normals	写入法线
+Write Surfaces	写入表面
+Write UV Coordinates	写入 UV 坐标
+X Position	X 位置
+X Rotate	绕 X 轴旋转
+X Rotation	X 旋转
+X Scale	X 轴缩放
+X Translate	X 轴平移
+Y Position	Y 位置
+Y Rotate	绕 Y 轴旋转
+Y Rotation	Y 旋转
+Y Scale	Y 轴缩放
+Y Translate	Y 轴平移
+Yellow	黄色
+Yes	是
+Yes to All	全部选是
+Z Position	Z 位置
+Z Rotate	绕 Z 轴旋转
+Z Rotation	Z 旋转
+Z Scale	Z 轴缩放
+Z Translate	Z 轴平移
+Zero	归零
+Zero Figure By Path...	按路径归零角色…
+Zero Figure By Type...	按类型归零角色…
+Zero Figure Pose...	归零角色姿势…
+Zero Figure Shape...	归零角色塑形…
+Zero Figure...	归零角色…
+Zero Selected Item(s) By Path...	按路径归零所选项目…
+Zero Selected Item(s) By Type...	按类型归零所选项目…
+Zero Selected Item(s) Pose...	归零所选项目姿势…
+Zero Selected Item(s) Shape...	归零所选项目塑形…
+Zero Selected Item(s)...	归零所选项目…
+dForce	dForce
+dForce Dynamic Surface	dForce 动态表面
+dForce Hair	dForce 毛发
+dForce Modifier	dForce 模拟修改器
+dForce Starter Essentials	dForce 入门基础资源
+dForce Static Surface	dForce 静态表面
